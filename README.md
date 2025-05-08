@@ -134,7 +134,7 @@ Weekday vs. weekend: calories & steps
 
 A concise summary of this project is also available as a PDF presentation for quick review. It includes goals, key charts, insights, and recommendations.
 
-[Link to presentation PDF] (to be added once finalized)
+<a href="https://github.com/edgarjgalvis/bellabeat-data-analysis/blob/main/Presentation/Case%20Study%202%20-%20Presentation.pdf" target="_blank">Case Study 2 - Presentation</a>
 
 💼 Credits
 
@@ -146,5 +146,5 @@ Case study inspired by the Google Data Analytics Capstone.
 
 Edgar Galvis — Junior Data Analyst passionate about data-driven decisions, process optimization, and user behavior insights.
 
-LinkedIn | GitHub
+<a href="www.linkedin.com/in/edgar-j-galvis" target="_blank"> LinkedIn </a> | <a href="https://github.com/edgarjgalvis" target="_blank"> GitHub </a>
 
